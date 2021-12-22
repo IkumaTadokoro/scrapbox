@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+set -euo pipefail
+IFS=$'\n\t'
+set -vx
+
+cp -r src/template src/"${1}"
