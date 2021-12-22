@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+# TODO:settingsを読んで、その設定でソースをpublicフォルダにうつすスクリプトを書く
